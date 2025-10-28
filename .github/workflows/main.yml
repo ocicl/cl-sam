@@ -10,6 +10,7 @@ jobs:
     permissions:
       packages: write
       contents: write
+      issues: write
     runs-on: ubuntu-latest
     name: Test and publish package
     timeout-minutes: 40
