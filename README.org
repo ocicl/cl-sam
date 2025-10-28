@@ -4,7 +4,7 @@ A DNA Sequence Alignment/Map (SAM) library for Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/keithj/cl-sam.git   |
-| commit  | 03321f3  |
+| commit  | remote:  |
 | systems | cl-sam |
 |---------+-------------------------------------------|
 
